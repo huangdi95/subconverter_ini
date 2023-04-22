@@ -3,3 +3,9 @@ DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,openai.com
 USER-AGENT,openai*
 DOMAIN,chat.openai.com
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripe.com
