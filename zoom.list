@@ -2,8 +2,3 @@
 DOMAIN-KEYWORD,zoom
 DOMAIN-SUFFIX,zoom.com
 USER-AGENT,zoom*
-
-# dblp
-DOMAIN-KEYWORD,dblp
-DOMAIN-SUFFIX,dblp.org
-USER-AGENT,dblp*
