@@ -2,3 +2,7 @@
 DOMAIN-KEYWORD,dblp
 DOMAIN-SUFFIX,dblp.org
 USER-AGENT,dblp*
+# todesk
+DOMAIN-KEYWORD,todesk
+DOMAIN-SUFFIX,todesk.com
+USER-AGENT,todesk*
