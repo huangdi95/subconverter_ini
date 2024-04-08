@@ -2,4 +2,7 @@
 DOMAIN-KEYWORD,todesk
 DOMAIN-SUFFIX,todesk.com
 USER-AGENT,todesk*
-PROCESS-NAME,todesk*|ToDesk*|Todesk*|toDesk*
+PROCESS-NAME,todesk*
+PROCESS-NAME,ToDesk*
+PROCESS-NAME,Todesk*
+PROCESS-NAME,toDesk*
