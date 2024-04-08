@@ -1,7 +1,8 @@
 # todesk
+DOMAIN-KEYWORD,*todesk*
 DOMAIN-KEYWORD,todesk
 DOMAIN-SUFFIX,todesk.com
-USER-AGENT,todesk*
+USER-AGENT,*todesk*
 PROCESS-NAME,ToDesk.exe
 PROCESS-NAME,ToDesk_Service.exe
 PROCESS-NAME,ToDesk
