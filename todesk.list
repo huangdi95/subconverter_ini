@@ -1,0 +1,5 @@
+# todesk
+DOMAIN-KEYWORD,todesk
+DOMAIN-SUFFIX,todesk.com
+USER-AGENT,todesk*
+PROCESS-NAME,todesk*|ToDesk*|Todesk*|toDesk*
